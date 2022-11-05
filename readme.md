@@ -1,1 +1,1 @@
-this is about git
+this is about git edited with git editor
